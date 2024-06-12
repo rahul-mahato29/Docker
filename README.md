@@ -9,7 +9,13 @@
 
 ### How to push the created image on docker-hub 
 
-    1. docker build . -t rahulmahato29/first-repo-test
-    2. docker push rahulmahato29/first-repo-test
+    1. docker login
+    2. docker build . -t rahulmahato29/first-repo-test
+    3. docker push rahulmahato29/first-repo-test
 
    CHECK : DockerHub-Repo : https://hub.docker.com/r/rahulmahato29/first-repo-test
+
+### How to run any image from docker-hub in your system
+
+    1. Go to the specific image repository.
+    2. And pull the image using link provided over there.
