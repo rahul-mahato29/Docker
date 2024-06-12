@@ -20,6 +20,14 @@
     1. Go to the specific image repository.
     2. And pull the image using link provided over there.
 
+### Assignment-1
+
+    Q - What if we will change the index.js file ?
+
+    If we will change the index.js file then only LAYER-1 and LAYER-2 will be reuse and other layers will be run again, with this approach we have one problem, if we change the index.js file then everytime we have to run LAYER-4 also (i.e, RUN npm install) - which is expensive.
+    
+    so, it's better the use the below approach.
+
 ### Assignment-2
      
     Q - How to decrease the size of the Image ?
