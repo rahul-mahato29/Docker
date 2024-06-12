@@ -22,7 +22,6 @@
 
 ### Assignment-2
      
-<<<<<<< HEAD
     Q - How to decrease the size of the Image ?
     
     Use "FROM mhart/alpine-node" in LAYER-1 
