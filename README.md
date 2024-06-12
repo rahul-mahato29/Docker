@@ -23,5 +23,5 @@
 ### Assignment-2
      
     Q - How to decrease the size of the Image ?
-    ![Using alpine-version of node](image.png)
+    <img width="350" alt="image" src="https://github.com/rahul-mahato29/Docker/assets/88178967/4a34d3b5-2073-4254-ba2c-5b3760477061">
     alpine-version's are more lighter than the orignial one.
