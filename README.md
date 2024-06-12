@@ -22,6 +22,6 @@
 
 ### Assignment-2
      
-    Q - How to decrease the size of the Image ?
-    <img width="350" alt="image" src="https://github.com/rahul-mahato29/Docker/assets/88178967/4a34d3b5-2073-4254-ba2c-5b3760477061">
-    alpine-version's are more lighter than the orignial one.
+Q - How to decrease the size of the Image ?
+<img width="350" alt="image" src="https://github.com/rahul-mahato29/Docker/assets/88178967/7418afb2-a574-4648-87ce-04259a7d1a56">
+alpine-version's are more lighter than the orignial one.
