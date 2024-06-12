@@ -23,5 +23,6 @@
 ### Assignment-2
      
     Q - How to decrease the size of the Image ?
-    ![Using alpine-version of node](image.png)
-    alpine-version's are more lighter than the orignial one.
+    
+    Use "FROM mhart/alpine-node" in LAYER-1 
+    NOTE : alpine-version's are more lighter than the orignial one.
