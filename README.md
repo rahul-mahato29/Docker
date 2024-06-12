@@ -24,9 +24,10 @@
 
     Q - What if we will change the index.js file ?
 
-    If we will change the index.js file then only LAYER-1 and LAYER-2 will be reuse and other layers will be run again, with this approach we have one problem, if we change the index.js file then everytime we have to run LAYER-4 also (i.e, RUN npm install) - which is expensive.
-    
+    If we will change the index.js file then only LAYER-1 and LAYER-2 will be reuse and other layers will be run again, with this approach we have one problem, if we change the index.js file then everytime we have to run LAYER-4 also (i.e, RUN npm install) - which is expensive. 
     so, it's better the use the below approach.
+
+![image](https://github.com/rahul-mahato29/Docker/assets/88178967/182522ea-b9b8-4aed-8ac5-d732d9d37ad6)
 
 ### Assignment-2
      
