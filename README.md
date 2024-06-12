@@ -22,7 +22,13 @@
 
 ### Assignment-2
      
+<<<<<<< HEAD
     Q - How to decrease the size of the Image ?
     
     Use "FROM mhart/alpine-node" in LAYER-1 
     NOTE : alpine-version's are more lighter than the orignial one.
+=======
+Q - How to decrease the size of the Image ?
+<img width="350" alt="image" src="https://github.com/rahul-mahato29/Docker/assets/88178967/7418afb2-a574-4648-87ce-04259a7d1a56">
+alpine-version's are more lighter than the orignial one.
+>>>>>>> b59abc082fcbe652e9fe3018a64cd7b3063461ff
